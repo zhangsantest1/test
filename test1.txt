@@ -1,2 +1,6 @@
 tttest1
+<<<<<<< HEAD
 test2 for dev1
+=======
+teste for dev2
+>>>>>>> 9501d05 (dev2firestmodify)
